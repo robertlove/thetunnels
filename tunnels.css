@@ -1,0 +1,8 @@
+body {background-color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000}
+a:link, a:active, a:visited {color: #6699CC; text-decoration: underline}
+a:hover {color: #003366; text-decoration: none}
+table {width: 100%; border: 0; cellspacing: 1}
+td {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; background-color: #CCCCCC}
+textarea, input {font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000}
+b {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #000000}
+.heading {font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #6699CC}
